@@ -1,0 +1,17 @@
+void barra(){
+  rectMode(CORNER);
+  fill(50);
+  rect(60,100,150,10);
+  
+  fill(255);
+  rect(60,100,barra1,10);
+  
+  
+  rectMode(CORNER);
+  fill(50);
+  rect(60,400,150,10);
+  
+  fill(255);
+  rect(60,400,barra2,10);
+  
+}
